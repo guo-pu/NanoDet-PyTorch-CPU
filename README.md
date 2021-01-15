@@ -1,9 +1,9 @@
 # NanoDet-PyTorch
 
+* **该代码适合没GPU显卡的嵌入式设备运行，比如“树莓派”、ARM开发板、嵌入式版等**
+
 * 说明：NanoDet作者开源代码地址：https://github.com/RangiLyu/nanodet  （致敬）
 * 该代码基于NanoDet项目进行小裁剪，专门用来实现Python语言、PyTorch 版本的代码，下载直接能使用，支持图片、视频文件、摄像头实时目标检测。
-
-* **该代码适合没GPU显卡的嵌入式设备运行，比如“树莓派”、ARM开发板、嵌入式版等**
 
 
 - YOLO、SSD、Fast R-CNN等模型在目标检测方面速度较快和精度较高，但是这些模型比较大，不太适合移植到移动端或嵌入式设备；
@@ -49,12 +49,6 @@ tqdm
 ```
 通常测试感觉GPU加速（显卡驱动、cudatoolkit 、cudnn）、PyTorch、pycocotools相对难装一点
 
-Windows开发环境安装可以参考：
-```text
-安装cudatoolkit 10.1、cudnn7.6请参考 https://blog.csdn.net/qq_41204464/article/details/108807165
-安装PyTorch请参考 https://blog.csdn.net/u014723479/article/details/103001861
-安装pycocotools请参考 https://blog.csdn.net/weixin_41166529/article/details/109997105
-```
 
 ## 运行程序
 ```text
