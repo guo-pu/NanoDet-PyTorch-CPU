@@ -1,6 +1,6 @@
 # NanoDet-PyTorch
 
-* **该代码适合没GPU显卡的嵌入式设备运行，比如“树莓派”、ARM开发板、嵌入式版等**
+* **该代码适合没GPU显卡的嵌入式设备运行，比如“树莓派”、ARM开发板、嵌入式开发板**
 
 * 说明：NanoDet作者开源代码地址：https://github.com/RangiLyu/nanodet  （致敬）
 * 该代码基于NanoDet项目进行小裁剪，专门用来实现Python语言、PyTorch 版本的代码，下载直接能使用，支持图片、视频文件、摄像头实时目标检测。
