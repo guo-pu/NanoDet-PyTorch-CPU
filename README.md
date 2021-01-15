@@ -68,4 +68,4 @@ tqdm
 * 适用于对检测精度要求不高的，对实时要求高的移动端或嵌入式设备。
 
 ### 目标检测效果：
-<img src="https://github.com/guo-pu/NanoDet-PyTorch-CPU/blob/master/docs/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E6%95%88%E6%9E%9C.png" /><br/>
+<img src="https://github.com/guo-pu/NanoDet-PyTorch-CPU/blob/master/docs/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-%E6%95%88%E6%9E%9C.jpg" /><br/>
